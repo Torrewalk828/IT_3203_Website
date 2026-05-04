@@ -15,7 +15,7 @@ body {
 }
 
 header {
-    background: #222;
+    background: #4CAF50;
     color: white;
     padding: 25px;
     text-align: center;
@@ -133,7 +133,7 @@ footer {
     }
 
     body {
-        font-size: 15px;
+        font-size: 18px;
     }
 
     table, thead, tbody, th, td, tr {
